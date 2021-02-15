@@ -1,0 +1,6 @@
+{
+"account-post-request" : "account-post-response",
+"account-get-request" : "account-get-response",
+"account-put-request" : "account-put-response",
+"account-delete-request" : "account-delete-response"
+}
